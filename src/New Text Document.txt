@@ -1,0 +1,13 @@
+To do:
+
+1. responsive pic
+2. Change fonts
+3. add linkes for linkedin and email
+
+
+
+
+3.set minimum width for the window
+
+
+ 
